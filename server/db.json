@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "b4bed5df-32a6-4272-9403-c9d0fdd26bd9",
+      "userName": "Đoàn Đức Thịnh",
+      "email": "thinhthinh@gmail.com",
+      "dateOfBirth": "1998-06-04",
+      "address": "Hà Nội",
+      "status": 1
+    },
+    {
+      "id": "b7248c32-8201-4115-8f89-ee7d0bf9658f",
+      "userName": "Nguyễn Hương Giang",
+      "email": "giang@gmail.com",
+      "dateOfBirth": "2000-06-23",
+      "address": "Hà Nội",
+      "status": 1
+    },
+    {
+      "id": "59eb87b2-ce35-4a2f-a0de-cb37b93d971e",
+      "userName": "Tạ Văn Bình",
+      "email": "binh@gmail.com",
+      "dateOfBirth": "2004-08-04",
+      "address": "Hà Tĩnh",
+      "status": 0
+    },
+    {
+      "id": "009e1630-4e3d-4df1-ad44-fdb2916c6f64",
+      "userName": "Phùng Phương Thảo",
+      "email": "thao@gmail.com",
+      "dateOfBirth": "1996-05-13",
+      "address": "Quảng Ninh",
+      "status": 1
+    }
+  ]
+}
